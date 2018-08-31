@@ -2,11 +2,15 @@
 
 ### Overview
 
-In this project, we aim to demonstrate to the underdeveloped and often-mulfunctioning TTC what a real working public transit system looks like. Our transit system is developed to work with a transit network that contains subways and buses. The system tracks and calculates fares for anyone who uses a travel card to enter and exit the system.
+This project aim to design a public transit system with subways and buses. The system tracks and calculates fares for anyone who uses a travel card to enter and exit the system, and it also plans trips in regards to numbers of terminals.
 
 ### How-to-use
 
-We use a combination of Users.txt, Terminals.txt and Events.txt as configuration files. These configuration files initialize the transit system with specified users, cards, and terminals (transitlines). 
+There are two ways to configure the system.
+
+1. Run main and register an administrater account for which provide an option to construct the transitsystem.
+
+2. Use configuration files (Users.txt, Terminals.txt and Events.txt). These configuration files initialize the transit system with specified users, cards, and terminals (transitlines). 
 
 #### Users.txt
 
