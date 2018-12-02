@@ -1,5 +1,5 @@
 ## Public Transit System
-
+## Developed by Ligeng Xia, Troy Yin, Stephen Zhang, Jefferson Zhong as UofT's Introduction to Software Design course's term project. 
 ### Overview
 
 This project aim to design a public transit system with subways and buses. The system tracks and calculates fares for anyone who uses a travel card to enter and exit the system, and it also plans trips in regards to numbers of terminals.
